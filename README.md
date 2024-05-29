@@ -14,8 +14,9 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the "myToken" file in my repo with a .sol extension. Now compile and deploy the program. All done !! 
 
 ## Interacting with Program
-![image](https://github.com/SuryanshMishra01/Metacrafters_2/assets/116947777/983ffd5b-8d48-4d77-8cb7-8a7c41a86caa)
-After deployment, we can interact by calling the function that will appear on left as in the screen shot.
+![image](https://github.com/SuryanshMishra01/Metacrafters_2/assets/116947777/47021f4c-86ac-41d4-999c-cc9fa6c7d195)
+
+After deployment, we can interact with program by calling the functions that will appear on the left as shown in the screen shot.
 
 # Author
 Suryansh Mishra
